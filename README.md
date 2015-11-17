@@ -14,6 +14,8 @@
 
 **Read** the code: [bestResult.js](./src/bestResult.js).
 
+**See** the demo:
+
 ![Demo of the widget][demo]
 
 Read more on how to create widgets in
