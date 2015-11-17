@@ -6,6 +6,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [Code](#code)
+- [Demo](#demo)
 - [Development](#development)
 - [Testing](#testing)
 - [Publishing the widget](#publishing-the-widget)
