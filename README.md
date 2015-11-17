@@ -12,7 +12,11 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Code
+
 **Read** the code: [bestResult.js](./src/bestResult.js).
+
+## Demo
 
 **See** the demo:
 
