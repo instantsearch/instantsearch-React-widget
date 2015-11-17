@@ -2,6 +2,13 @@
 
 [demo]: ./demo.gif
 
+This repository holds a custom widget for [instantsearch.js](https://community.algolia.com/instantsearch.js/). It's using [React](https://facebook.github.io/react/).
+
+Read more on how to create widgets in
+the [instantsearch.js documentation](https://community.algolia.com/instantsearch.js/documentation/#custom-widgets).
+
+We also have a more complex example using React: [instantsearch-googlemaps](https://github.com/instantsearch/instantsearch-googlemaps).
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -16,18 +23,11 @@
 
 ## Code
 
-**Read** the code: [bestResult.js](./src/bestResult.js).
+**Read** [the code](./src/).
 
 ## Demo
 
-**See** the demo:
-
 ![Demo of the widget][demo]
-
-Read more on how to create widgets in
-the [instantsearch.js documentation](https://community.algolia.com/instantsearch.js/documentation/#custom-widgets).
-
-We also have a more complex example using React: [instantsearch-googlemaps](https://github.com/instantsearch/instantsearch-googlemaps).
 
 To run the example you can:
   + clone this repository
